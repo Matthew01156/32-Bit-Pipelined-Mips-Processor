@@ -30,13 +30,14 @@ My main contributions were focused on the SystemVerilog modules included in this
 ## Tools Used
 - SystemVerilog
 - AMD/Xilinx Vivado
-  
+- Vivado Simulator
+
 ## Repository Structure
 - `Design Files/` contains SystemVerilog source modules
-- `Simulation/` contains testbench files used for module and top-level verification
+- `Simulation Files/` contains testbench files used for module and top-level verification
 - `docs/` contains the project report and presentation
 
-## Modules Personaly Contributed
+## Modules Personally Contributed
 - `alu.sv`
 - `alu_control.sv`
 - `control_unit.sv`
