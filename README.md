@@ -30,8 +30,7 @@ My main contributions were focused on the SystemVerilog modules included in this
 ## Tools Used
 - SystemVerilog
 - AMD/Xilinx Vivado
-- HDL simulation tools
-
+  
 ## Repository Structure
 - `Design Files/` contains SystemVerilog source modules
 - `Simulation/` contains testbench files used for module and top-level verification
