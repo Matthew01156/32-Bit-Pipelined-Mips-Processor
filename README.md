@@ -37,7 +37,7 @@ My main contributions were focused on the SystemVerilog modules included in this
 - `Simulation/` contains testbench files used for module and top-level verification
 - `docs/` contains the project report and presentation
 
-## Modules Included
+## Modules I Contributed
 - `alu.sv`
 - `alu_control.sv`
 - `control_unit.sv`
